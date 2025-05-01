@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Google Business Manager",
+    "key": "google",
+    "apiEndpoint": "https://businessprofile.googleapis.com/v1/accounts",
+    "requiresAuth": true
+  },
+  {
+    "name": "Apple Places",
+    "key": "Apple",
+    "apiEndpoint": "",
+    "requiresAuth": true
+  }
+  {
+    "name": "Facebook",
+    "key": "facebook",
+    "apiEndpoint": "https://graph.facebook.com/v11.0/me/pages",
+    "requiresAuth": true
+  },
+  {
+    "name": "Foursquare",
+    "key": "foursquare",
+    "apiEndpoint": "https://api.foursquare.com/v2/venues",
+    "requiresAuth": true
+  },
+  {
+    "name": "Yelp",
+    "key": "yelp",
+    "apiEndpoint": "https://api.yelp.com/v3/businesses",
+    "requiresAuth": true
+  },
+  {
+    "name": "Bing Places",
+    "key": "bing",
+    "apiEndpoint": "https://api.bingplaces.com/v1/businesses",
+    "requiresAuth": true
+  }
+]
