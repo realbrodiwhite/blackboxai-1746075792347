@@ -6,6 +6,7 @@ This project is a web application for creating and managing business citations o
 
 - /client: React frontend application
 - /server: Node.js backend API server
+- /admin:  React frontend application for Admin
 
 ## Setup Instructions
 
